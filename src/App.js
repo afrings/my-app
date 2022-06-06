@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './imgs/Abby_&_Austin_UW_Madison_30.jpg';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          tall, lanky mofo
         </p>
       </header>
     </div>
