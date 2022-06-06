@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.bc48b647.css",
-    "main.js": "/my-app/static/js/main.cd403649.js",
+    "main.css": "/my-app/static/css/main.8c86af1d.css",
+    "main.js": "/my-app/static/js/main.33e8ac43.js",
     "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
     "static/media/Abby_&_Austin_UW_Madison_30.jpg": "/my-app/static/media/Abby_&_Austin_UW_Madison_30.61f0e7f1c50d692b72e3.jpg",
     "index.html": "/my-app/index.html",
-    "main.bc48b647.css.map": "/my-app/static/css/main.bc48b647.css.map",
-    "main.cd403649.js.map": "/my-app/static/js/main.cd403649.js.map",
+    "main.8c86af1d.css.map": "/my-app/static/css/main.8c86af1d.css.map",
+    "main.33e8ac43.js.map": "/my-app/static/js/main.33e8ac43.js.map",
     "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc48b647.css",
-    "static/js/main.cd403649.js"
+    "static/css/main.8c86af1d.css",
+    "static/js/main.33e8ac43.js"
   ]
 }
