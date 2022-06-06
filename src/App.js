@@ -9,6 +9,7 @@ function App() {
         <p>
           Austin Frings
         </p>
+        <a id='l' href="https://github.com/afrings">My Github</a>
       </header>
     </div>
   );
